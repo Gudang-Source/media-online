@@ -1,0 +1,16 @@
+- Syarat utama menjalankan CMS Lokomedia, pastikan mod_rewrite pada server Apache sudah diaktifkan
+
+- Dan jangan lupa Import databasenya melalui phpMyAdmin dengan nama yg sama dgn nama database yg disediakan
+
+- Untuk masuk ke halaman Administrator, ketik alamat berikut:
+http://localhost/13MEDIAONLINEV1/adminweb
+
+atau kalau sudah di online-kan:
+http://namadomain/adminweb
+
+Username: admin
+Password: admin
+
+Tips: Segera ganti passwordnya apabila Anda sudah masuk ke halaman Administrator.  
+
+- Adapun file untuk konfigurasi database bisa Anda temukan di folder lokomedia/config/koneksi.php, silahkan sesuaikan dengan username dan password database di komputer atau server hosting(domain) Anda.
